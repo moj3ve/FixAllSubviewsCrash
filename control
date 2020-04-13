@@ -1,0 +1,9 @@
+Package: jp.soh.fixallsubviewscrash
+Name: FixAllSubviewsCrash
+Depends: mobilesubstrate, firmware (>= 13.4)
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: A temporally fix for the crash caused when calling allSubviews on UIView
+Maintainer: Soh Satoh
+Author: Soh Satoh
+Section: Tweaks
